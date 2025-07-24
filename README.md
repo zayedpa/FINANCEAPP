@@ -14,13 +14,19 @@ Built with Streamlit, Pandas, and Plotly, this app lets users upload their bank 
  ## Your CSV file should have the following headers:
 
 Date,Description,Amount,Category
+
 2024-07-01,Amazon Purchase,1200,Shopping
+
 2024-07-05,Salary,30000,Income
 
  ## Dependencies
 streamlit
+
 pandas
+
 plotly
+
 json
+
 os
 
